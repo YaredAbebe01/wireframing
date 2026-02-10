@@ -62,3 +62,19 @@ High-fidelity wireframes are detailed and polished representations of the final 
 
 The wireframes discussed in this project are **low-fidelity wireframes**. They focus on layout structure, navigation, content placement, and basic functionality rather than detailed visuals. This approach helps clearly communicate ideas and functionality early in the design process before moving on to high-fidelity designs.
 
+## Popular Wireframing Tools
+
+There are several tools available that designers use to create wireframes. Each tool offers different features depending on the complexity and stage of the design process.
+
+### Figma
+Figma is a cloud-based design and prototyping tool widely used for wireframing and UI/UX design. It allows designers and developers to collaborate in real time from any device with an internet connection.
+
+**Key features of Figma for wireframing:**
+- Real-time collaboration with team members
+- Easy-to-use drag-and-drop interface
+- Reusable components and design systems
+- Supports both low-fidelity and high-fidelity wireframes
+- Browser-based, no installation required
+
+**Why Figma is useful for wireframing:**
+Figma helps teams quickly create, edit, and share wireframes. Its collaboration features make it ideal for gathering feedback early, while its flexibility allows designers to gradually move from simple wireframes to detailed designs efficiently.
