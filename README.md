@@ -78,3 +78,45 @@ Figma is a cloud-based design and prototyping tool widely used for wireframing a
 
 **Why Figma is useful for wireframing:**
 Figma helps teams quickly create, edit, and share wireframes. Its collaboration features make it ideal for gathering feedback early, while its flexibility allows designers to gradually move from simple wireframes to detailed designs efficiently.
+## Benefits of Wireframing in Software Development
+
+Wireframing plays a critical role in software development by providing a clear visual blueprint before coding begins. It helps align design and development teams and reduces misunderstandings early in the project.
+
+**How wireframes guide the design process:**
+- They define layout structure and navigation before implementation.
+- They help prioritize content placement and user interactions.
+- They allow teams to validate functionality without writing code.
+
+**How wireframes improve team communication:**
+- Designers can clearly explain their ideas to developers using visual layouts.
+- Developers can better estimate effort and identify technical requirements.
+- Stakeholders can provide feedback early, reducing costly changes later.
+
+**Example:**  
+A low-fidelity wireframe showing a login page with input fields and buttons helps developers understand what components are needed, while designers ensure the layout supports usability before moving to high-fidelity designs.
+
+## Wireframing in Practice
+
+### Real-World Scenario
+
+In a real-world mobile application project, a team created low-fidelity wireframes for a user registration flow. During review, it became clear that users had to navigate through too many steps to complete registration, which could lead to frustration and drop-offs.
+
+### Identified Issues and Resolution
+
+The wireframes revealed that:
+- Important buttons were placed too low on the screen
+- The navigation between steps was unclear
+- Users were required to enter unnecessary information early
+
+To resolve these issues, the team:
+- Simplified the registration process into fewer steps
+- Moved primary action buttons to more visible positions
+- Delayed optional information to later stages
+
+### Impact on the Final Product
+
+By addressing these usability issues before development, the team reduced rework and improved user experience. The final product was easier to navigate, faster to use, and received positive feedback from users.
+
+### Conclusion
+
+Wireframing ensures a user-friendly design by identifying potential usability problems early. It helps teams build intuitive, efficient, and well-structured applications while saving time, cost, and development effort.
